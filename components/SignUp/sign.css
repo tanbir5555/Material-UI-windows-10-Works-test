@@ -1,0 +1,36 @@
+.inputOFsignUp{
+    width: 86%;
+    margin: auto !important;
+    margin-top: 1.5rem !important;
+    
+
+    
+  
+}
+.TheForm{
+    /* min-height: 50vh; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+    margin-top: 5vh !important;
+    
+}
+.MySignUp{
+    width:455px;
+    margin: auto;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.radioInputs{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+@media(max-width:600px){
+
+}
